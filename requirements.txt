@@ -1,0 +1,11 @@
+python==3.12
+torch==2.11.0
+scikit-learn==1.8.0
+ngboost
+shap
+joblib
+pandas
+numpy
+matplotlib
+scipy
+openpyxl
